@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" width="100"/>
+</div>
 <h1 align="center">Hi 👋, I'm Sohair Mahmoud Muhammed</h1>
 <h3 align="center">front-end developer</h3>
 
