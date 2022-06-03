@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohair Mahmoud Muhammed</h1>
-<h3 align="center">A front-end developer</h3>
+<h3 align="center">front-end developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohair333&label=Profile%20views&color=0e75b6&style=flat" alt="sohair333" /> </p>
 
